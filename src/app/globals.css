@@ -11,3 +11,10 @@
   margin: 0;
 }
 
+.cl-formFieldInput {
+  height: 45px !important;
+}
+
+.cl-formButtonPrimary {
+  height: 42px !important;
+}
